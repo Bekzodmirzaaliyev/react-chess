@@ -30,10 +30,10 @@
     position: relative;
 }
 .black {
-    background-color: deepskyblue;
+    background-color: #44636e;
 }
 .white {
-    background-color: #eed4ac;
+    background-color: #e9da96;
 }
 
 .selected {
